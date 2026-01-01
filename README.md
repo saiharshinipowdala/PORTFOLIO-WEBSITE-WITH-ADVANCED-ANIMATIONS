@@ -20,3 +20,7 @@ It serves as a digital resume and is useful for job applications, internships, a
 Tools Used :
 
 HTML5, CSS3, JavaScript, GSAP, Three.js, Google Fonts, and GitHub Pages.
+
+OUTPUT 
+
+<img width="1851" height="877" alt="Image" src="https://github.com/user-attachments/assets/d8cb132a-13db-48f6-ab26-c6d90235e95e" />
